@@ -46,8 +46,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
 <!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MOsaber22&show_icons=true&theme=radical" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MOsaber22&layout=compact&theme=radical" />
